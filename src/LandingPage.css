@@ -1,0 +1,31 @@
+body {
+    background: #000;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+*{
+    box-sizing: border-box;
+}
+.main_div{
+    width: 100%;
+    float: left;
+    background: #fefefe;
+    padding:70px;
+}
+.text-div {
+    float: left;
+    width: 50%;
+    text-align: left;
+}
+
+.image-div {
+    float: left;
+    width: 25%;
+    margin-left: 10%;
+}
+.image-div img{
+    width:100%;
+    border-radius:50%;
+}
